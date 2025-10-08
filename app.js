@@ -6,8 +6,8 @@ function funcJS(){
         bool: true,
         arr: [1, 2, 3],
         obj: {
-            name: "John",
-            age: 20,
+            name: "Gonçalo",
+            age: 16,
         }
     }
     return vari;
