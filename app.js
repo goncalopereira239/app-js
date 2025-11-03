@@ -2,7 +2,7 @@
 function funcJS(){
     const vari = {
         id: 1,
-        str: "Hello",
+        str: "Nate Higgers",
         bool: true,
         arr: [1, 2, 3],
         obj: {
